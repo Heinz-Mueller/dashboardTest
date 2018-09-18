@@ -1,7 +1,3 @@
-[submodule "submodInitR"]
-	path = submodInitR
-	url = https://github.com/Heinz-Mueller/submodInitR.git
-	branch = master
 [submodule "src/app/pages/miscellaneous/submodInitR"]
 	path = src/app/pages/miscellaneous/submodInitR
 	url = https://github.com/Heinz-Mueller/submodInitR.git
