@@ -4,6 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { MiscellaneousComponent } from './miscellaneous.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { MyTestComponent} from './my-test/my-test.component';
+import { SubCompComponent } from './submodInitR/sub-comp.component';
 
 
 const routes: Routes = [{
@@ -15,6 +16,10 @@ const routes: Routes = [{
   }, {
     path: 'my-test',
     component: MyTestComponent,
+  },
+  {
+    path: 'submodInitR',
+    component: SubCompComponent,
   }],
 }];
 
@@ -28,4 +33,5 @@ export const routedComponents = [
   MiscellaneousComponent,
   NotFoundComponent,
   MyTestComponent,
+  SubCompComponent,
 ];

@@ -158,6 +158,10 @@ export const MENU_ITEMS: NbMenuItem[] = [
         title: 'Mein Test',
         link: '/pages/miscellaneous/my-test',
       },
+      {
+        title: 'Mein Submodule',
+        link: '/pages/miscellaneous/submodInitR',
+      },
     ],
   },
   {
