@@ -1,0 +1,4 @@
+[submodule "submodInitR"]
+	path = submodInitR
+	url = https://github.com/Heinz-Mueller/submodInitR.git
+	branch = master
