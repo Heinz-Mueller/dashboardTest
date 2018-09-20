@@ -4,7 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { MiscellaneousComponent } from './miscellaneous.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { MyTestComponent} from './my-test/my-test.component';
-import { SubCompComponent } from './submodInitR/sub-comp.component';
+import { SubCompComponent } from './subModule/sub-comp.component';
 
 
 const routes: Routes = [{
